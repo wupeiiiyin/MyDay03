@@ -8,6 +8,6 @@ import android.util.Log;
 
 public class Demo {
     public void sho(){
-        Log.e("TAG", "day03");
+        Log.e("TAG", "Day003333");
     }
 }
